@@ -189,8 +189,6 @@ body{
   height: 690px;
  }
 
-
-
  .texto{
 
   position: absolute;
@@ -212,7 +210,7 @@ body{
  #img1 {
   position: absolute;
   top: 30%;
-  left: 15%;
+  left: 10%;
   width: 280px;
   height: 390px;
  }
@@ -220,7 +218,7 @@ body{
  #img2 {
   position: absolute;
   top: 30%;
-  left: 15%;
+  left: 10%;
   width: 280px;
   height: 390px;
  }
@@ -228,7 +226,7 @@ body{
  .carta {
   position: absolute;
   top: 30%;
-  margin-left: 15%;
+  margin-left: 10%;
   color: white;
   width: 280px;
   height: 390px;
