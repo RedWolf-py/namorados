@@ -210,7 +210,7 @@ body{
  #img1 {
   position: absolute;
   top: 30%;
-  left: 10%;
+  left: 15%;
   width: 280px;
   height: 390px;
  }
@@ -218,7 +218,7 @@ body{
  #img2 {
   position: absolute;
   top: 30%;
-  left: 10%;
+  left: 15%;
   width: 280px;
   height: 390px;
  }
@@ -226,7 +226,7 @@ body{
  .carta {
   position: absolute;
   top: 30%;
-  margin-left: 10%;
+  margin-left: 15%;
   color: white;
   width: 280px;
   height: 390px;
