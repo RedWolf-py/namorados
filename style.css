@@ -185,14 +185,11 @@ body{
   height: 100vh;
 }
  #canvas{
-  width: 360px;
-  height: 690px;
+  width: 400px;
+  height: 700px;
  }
 
- #img7{
-  margin-left: 20px;
-  
- }
+
 
  .texto{
 
