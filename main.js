@@ -250,7 +250,8 @@ window.addEventListener('load', function () {
     draw() {
       ctx.drawImage(this.ft7, this.frame * this.sw, this.y, this.sw, this.sh, this.px, this.py, this.width, this.height)
       if (window.matchMedia("(max-width:800px)").matches) {
-        this.px = 290;
+        this.px = 300;
+        this.py = 560;
 
       }
 
